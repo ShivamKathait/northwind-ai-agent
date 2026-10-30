@@ -1,0 +1,1 @@
+"""Northwind Group consolidation prototype."""

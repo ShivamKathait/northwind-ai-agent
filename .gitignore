@@ -1,0 +1,6 @@
+__pycache__/
+*.pyc
+.venv/
+*.egg-info/
+.pytest_cache/
+AI_Agentic_Engineer_TakeHome_v2.pdf
